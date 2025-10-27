@@ -542,7 +542,6 @@ Pake's development can not be without these Hackers. They contributed a lot of c
 3. You can follow my [Twitter](https://twitter.com/HiTw93) to get the latest news of Pake or join our [Telegram](https://t.me/+GclQS9ZnxyI2ODQ1) chat group.
 4. I hope that you enjoy playing with it. Let us know if you find a website that would be great for a Mac App!
 
-------
+---
 
 <img width="1094" height="1199" alt="windows_logo" src="https://github.com/user-attachments/assets/a5f84929-6061-455b-821e-67c21606e891" />
-
